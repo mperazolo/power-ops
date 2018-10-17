@@ -1,0 +1,8 @@
+paramiko>=2.0.0
+setuptools>=39.0.1
+stevedore>=1.29.0
+pycrypto>=2.6.1
+backports.functools_lru_cache>=1.5
+SQLAlchemy>=1.2.12
+PyYAML>=3.13
+configparser>=3.5.0
